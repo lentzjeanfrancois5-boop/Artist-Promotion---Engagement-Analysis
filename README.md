@@ -1,5 +1,5 @@
 # 🎶 Fresh Beats: Growth & Monetization Strategy Report
-
+Spotify engagement analysis: 23 % CTR lift, paid conversion +9 %
 ## 💡 Project Overview
 
 This project provides a strategic analysis for **Fresh Beats** 🎶, an innovative online platform supporting music streaming and emerging artist promotions. The primary goal was to leverage user behavior and consumption data to deliver actionable strategies that **maximize promotional effectiveness for artists** and **boost user conversion to paid subscriptions**.
